@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap");
+.font-text {
+  font-family: "Inter", sans-serif;
+}
+
+* {
+  font-family: "Inter", sans-serif;
+}
+
+.height-img {
+  width: 140px;
+}
+
+.color-white {
+  color: #fff;
+}
+
+.heigt-1 {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.margin-1 {
+  margin-top: 9rem;
+  margin-left: 4rem;
+}
+
+.margin-2 {
+  margin-left: 4rem;
+}
+
+.margin-3 {
+  margin-left: 7rem;
+}
+
+.margintop-1 {
+  margin-top: 7rem;
+}
+
+.text-body {
+  font-size: 1.5rem;
+}
+
+.text-body-bold {
+  font-size: 1 rem;
+  font-weight: bold;
+}
+
+.icon-size {
+  font-size: 70px !important;
+}
+
+.icon-hight {
+  width: 70px !important;
+  height: 70px;
+}
+
+.btn-primary-color {
+  background-color: #2ec5ce !important;
+  color: white;
+}
+
+*:focus {
+  outline: none;
+}
+
+.margin-left-primary {
+  margin-left: 4rem;
+  margin-right: 4rem;
+}
+
+.card-width {
+  width: 151px;
+}
+
+#squared-navigation {
+  background-image: url("/img/inicio/Feature/Multiple/6.svg");
+  background-repeat: no-repeat, no-repeat;
+}
+
+.paddingTopBottom {
+  padding-top: 15rem;
+  padding-bottom: 15rem;
+}
+
+.marginTopBottom {
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+.squared-botton {
+  background-color: #fff;
+}
+
+.squared-botton:hover {
+  /* background more  */
+  background-color: #d5fafc;
+  color: black;
+  border-color: black 1px solid;
+}
+
+.card-width {
+  width: 151px;
+}
+
+.icono-placeholder-image {
+  background-image: url(./img/lock.png);
+  background-size: 35px 35px;
+  background-repeat: no-repeat;
+  background-position: 20px;
+  alt: "Logotipo que representa el ingreso del campo cédula";
+}
